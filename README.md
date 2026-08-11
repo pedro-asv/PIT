@@ -34,6 +34,4 @@ PIT/
 
 ## Nota
 
-Projeto de estudo. A versão anterior deste repositório tinha uma pasta
-duplicada com uma iteração mais antiga do mesmo projeto — mantida aqui
-apenas a versão final e mais completa.
+Projeto de estudo. A versão atual deste repositório agora é um fork pois foi feito com meu grupo de alunos do COTEMIG
