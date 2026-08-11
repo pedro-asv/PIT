@@ -11,11 +11,19 @@ formulário de cadastro de usuário e login, em PHP + MySQL.
 
 ## Estrutura
 
-- `index.php` / `index.html` — formulário de cadastro
-- `login.php` — tela de login
-- `conf.php` — configuração de conexão com o banco
-- `bdpit.sql` — script de criação do banco de dados
-- `app.mwb` — modelo do banco (MySQL Workbench)
+```
+PIT/
+├── index.php / index.html   # formulário de cadastro
+├── login.php                # tela de login
+├── conf.php                 # configuração de conexão com o banco
+├── css/style.css
+└── database/
+    ├── bdpit.sql             # script de criação do banco de dados
+    └── app.mwb               # modelo do banco (MySQL Workbench)
+```
+
+> Nota: `css/style.css` está vazio no projeto original — link já existia
+> assim, não é uma quebra introduzida agora.
 
 ## Como rodar
 
